@@ -1,0 +1,37 @@
+
+ What Is Morse Code?
+Morse code is a method of encoding text characters as a series of dots (short signals) and dashes (long signals). It’s used to send messages, especially in telecommunication, by representing each letter and number with a unique combination of these signals.
+
+ Historical Context: Why Morse Code Was Created
+- Invented in the 1830s by American artist and inventor Samuel F.B. Morse, with help from Alfred Vail, Morse code was designed to solve the problem of slow long-distance communication.
+- Before Morse code, messages were delivered by horseback, ship, or courier, often taking days or weeks.
+- Morse’s telegraph system used electric pulses to transmit coded messages over wires, revolutionizing communication by enabling near-instant transmission across vast distances.
+- The first official Morse code message, sent in 1844, was: “What hath God wrought?”
+
+ How the Morse Code System Works
+ Basic Principles
+- Each letter, number, and punctuation mark is represented by a unique combination of dots and dashes.
+- For example:
+- A = ·−
+- B = −···
+- S = ···
+- O = −−− (used in the distress signal SOS: ···−−−···)
+️ Timing and Structure
+- A dot lasts for one unit of time.
+- A dash lasts for three units.
+- Spaces are crucial:
+- Between parts of the same letter: 1 unit
+- Between letters: 3 units
+- Between words: 7 units
+📡 Transmission Methods
+- Morse code can be sent via:
+- Sound (beeps or tones)
+- Light (flashes)
+- Radio signals
+- Electrical pulses
+
+references
+https://copilot.microsoft.com/chats/dsevkp4c7ru1q541A8oVT
+https://chatgpt.com/
+
+

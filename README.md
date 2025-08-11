@@ -62,6 +62,12 @@ int main() {
         }
         // Ignore non-alphabetic characters
     }
+/ Final version tested with sample inputs
+// Input: The quick brown fox jumps over the lazy dog
+// Output: Each letter with Morse code + full message
+
+// Cleaned up formatting and comments
+
 
     cout << "\nFull Morse code with spaces:\n" << fullMorse << endl;
     return 0;

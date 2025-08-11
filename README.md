@@ -31,7 +31,20 @@ int main() {
     for (char ch : input) {
         if (isalpha(ch)) {
             char upperChar = toupper(ch);
-            string morse = morseCode[upperChar];
+            int main() {
+    string input;
+    cout << "Enter a short message: ";
+    getline(cin, input);
+
+    for (char ch : input) {
+        if (isalpha(ch)) {
+            char upperChar = toupper(ch);
+            cout << upperChar << endl;
+        }
+    }
+
+    return 0;
+}
 
             // Output individual letter and its Morse code
             cout << upperChar << ": ";

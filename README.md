@@ -39,7 +39,7 @@ int main() {
     for (char ch : input) {
         if (isalpha(ch)) {
             char upperChar = toupper(ch);
-            cout << upperChar << endl;
+            string morse = morsecode[upperchar];
         }
     }
 
